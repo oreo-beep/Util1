@@ -1,0 +1,47 @@
+{ 
+    margin: 0;
+    padding: 0;
+}
+.caja{
+   
+    font-size: 10px;
+    
+    width: 28em;
+    height: 46em;
+    background-color:;
+    margin: auto;
+    margin-top: 20em;
+    
+    position:relative;
+} 
+.txt h1{
+    
+    font-size: 25px;
+    font-family: monospace;
+    color: white;
+    position: absolute;
+    left: 50px;
+    top: 200px;
+}
+.imagen{
+    
+    font-size: 10px;
+    
+    width: 28em;
+    height: 46em;
+    margin: auto;
+    border: 2.5em;
+    border-color: black;
+}
+.margen{
+    
+    width: 24em;
+    height: 43em;
+    background-color: ;
+    position: absolute;
+    bottom: 1.3em;
+    left: 1.7em;
+    
+    border: 0.3em solid white;
+}
+
